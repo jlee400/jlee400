@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi%20I'm%20Juhyun!&fontSize=40&fontAlignY=40&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=a8edea,fed6e3,fcb69f&height=250&section=header&text=Hi%20I'm%20Juhyun!&fontSize=40&fontAlignY=40&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=60&font=Raleway)
+
 
 ## 🙋‍♀️ About Me
 
@@ -8,13 +9,17 @@
 - ✍️ Writing posts on [Juhyun's Learning hub](https://jlee400.github.io/)
 - ✌️ My official website [Juhyun's Website](https://juhyunnikkilee.my.canva.site/)
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/Fortran-734F96?style=flat-square&logo=Fortran&logoColor=white"/>
-<img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"/>
-<img src="https://img.shields.io/badge/LaTex-008080?style=flat-square&logo=LaTex&logoColor=white"/>
+## 🛠 Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fortran-734F96?style=flat-square&logo=Fortran&logoColor=white" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white" />
+</div>
 
 ## 📈 GitHub Stats
 
