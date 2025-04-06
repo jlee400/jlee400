@@ -3,7 +3,7 @@
 
 ## 🙋‍♀️ About Me
 
-- 💻 I’m currently working with Python, and R, little interest in Fortran, Net Logo
+- 💻 I’m currently working with Python, R, and Markdown, little interest in Fortran, Net Logo
 - 🌱 I’m studying **Computational Data Science & Scientific Computing**
 - 📌 Interested in **Computational Modeling**, **Machine Learning**, and **Data Mining**
 - ✍️ Writing posts on [Juhyun's Learning hub](https://jlee400.github.io/)
