@@ -3,7 +3,7 @@
 
 ## 🙋‍♀️ About Me
 
-- 💻 I’m currently working with Python, R, and Markdown, little interest in Fortran, Net Logo
+- 💻 I’m currently working with Python, R, and Markdown, little interest in Fortran, NetLogo
 - 🌱 I’m studying **Computational Data Science & Scientific Computing**
 - 📌 Interested in **Computational Modeling**, **Machine Learning**, and **Data Mining**
 - ✍️ Writing posts on [Juhyun's Learning hub](https://jlee400.github.io/)
@@ -28,7 +28,7 @@
 
 ## 😄 Fun Facts
 
-- 🎧 I code better listening to hip hop musics
+- 🎧 I code better listening to hip hop music
 - 🐶 I have a dog named Haku Adams III
 - ☕ Addicted to coffee...
 - 🏊 I am a swimmer
